@@ -7,7 +7,7 @@ See documentation for the library here: http://developer.nordicsemi.com/nRF51_SD
 
 Requirements
 ------------
-- nRF51 SDK version 8.0.0
+- SDK version 8.0.0
 - nRF51 DK
 
 The project may need modifications to work with other versions or boards. 
